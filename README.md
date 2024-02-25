@@ -7,7 +7,7 @@ I also love the logic and structure of coding and always strive to write elegant
 <h2> Fun facts:</h2><hr>
 <table>
   <tr><td>
-   <img src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="mario">
+  <img src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png " width="200px" alt="mario">
     <td>
  • 🔭 I’m currently working on something cool!<br>
 • 👯 I’m looking to collaborate on cool project<br>
